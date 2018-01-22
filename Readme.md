@@ -3,11 +3,13 @@ Register to participate in the Subutai Blueprint writing hackathon. We're offeri
 
 Registration Status: **INACTIVE**
 
-> **WARNING**: This is a work in progress. When complete with rules for participation we will change the status to OPEN.
+> **WARNING**: This is a work in progress. When complete with rules for participation we will change the status to OPEN to start accepting PR requests.
 
 ## Approved Blueprint Applications
 
-To register, clone this repository and edit this file adding your name to one of the applications that are blank. PR your changes for approval. We'll review your request and merge the PR this file. The table below lists the applications you can register for.
+To register, clone this repository and edit this file adding your name to one of the applications that are blank. PR your changes for approval. We'll review your request and merge the PR this file. Feel free to add new applications for us to consider and we will respond.
+
+The table below lists the applications you can register for.
 
 | Application | Version |   Category                | Reward  | Registerant's GitHub Handle |
 | ----------- | ------- | ------------------------- | ------- | --------------------------- |
