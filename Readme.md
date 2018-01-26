@@ -8,7 +8,7 @@ Registration Status: **INACTIVE**
 
 Register by adding your name to one of the existing applications, or add a new application we missed. PR your changes for approval. We'll review your request and merge.
 
-| Application                    | Version     |   Category                | Registerant's GitHub Handle |
+| Application                    | Version     |   Category                | Registrant's GitHub Handle |
 | ------------------------------ | ----------- | ------------------------- | --------------------------- |
 | Confluence                     | 6.5.1       | Wiki                      | [absidish](https://github.com/absidish) |
 | Discourse                      | 2.0         | Forum                     |                             |
