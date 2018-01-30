@@ -1,8 +1,6 @@
 Register to participate in the Subutai Blueprint writing hackathon. We're offering [prizes](https://github.com/subutai-blueprints/hackathon/wiki/Prizes)!
 
-Registration Status: **INACTIVE**
-
-> **WARNING**: This is a work in progress. When complete we will change the status to OPEN to start accepting PR requests.
+Registration Status: **OPEN**
 
 ## Blueprint Applications
 
