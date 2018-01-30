@@ -2,6 +2,8 @@ Register to participate in the Subutai Blueprint writing hackathon. We're offeri
 
 Registration Status: **OPEN**
 
+For more information, guides and frequently asked questions see the [wiki](https://github.com/subutai-blueprints/hackathon/wiki).
+
 ## Blueprint Applications
 
 Register by adding your name to one of the existing applications, or add a new application we missed. PR your changes for approval. We'll review your request and merge.
