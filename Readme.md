@@ -55,4 +55,4 @@ Register by adding your name to one of the existing applications, or add a new a
 | Verdaccio                      | 2.7.3       | Proxy                     |                             |
 | Wallabag                       | 2.3.2       | Blog                      |                             |
 | Wekan                          | 0.63        | Development               |                             |
-| Wordpress                      | 4.9.x       | Blog                      |                             |
+| Wordpress                      | 4.9.x       | Blog                      | [absidish](https://github.com/absidish) |
