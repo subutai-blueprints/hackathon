@@ -27,7 +27,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | JIRA                           | 6.5.1       | Project Management        | [absidish](https://github.com/absidish) |
 | Kanboard                       | 1.2.0       | Project Management        |                             |
 | LAMP Stack                     | PHP 7       | Development               |                             |
-| Let’s Chat                     | 0.4.8       | Chat                      |                             |
+| Let’s Chat                     | 0.4.8       | Chat                      | [AlinaPenkina](https://github.com/AlinaPenkina)|
 | Lychee                         | 3.1.6       | Photo Management          |                             |
 | Mailtrain                      | 1.24        | Email, Contacts, Calendar |                             |
 | Matomo                         | 3.3.0       | Analytics                 |                             |
@@ -35,7 +35,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | MediaWiki                      | 1.30.0      | Wiki                      |                             |
 | Meemo                          | 1.6.5       | Notes                     |                             |
 | Minio                          | latest      | Cloud Storage             |                             |
-| Nextcloud                      | 12.0.x      | Cloud Storage             | [Abdysamat](https://github.com/samsonbek)|
+| Nextcloud                      | 12.0.x      | Cloud Storage             |                             |
 | NodeBB                         | 1.7.3       | Forum                     |                             |
 | OpenProject                    | 7.3.2       | Project Management        |                             |
 | OwnCloud                       | 2.4.0       | Cloud Storage             |                             |
@@ -51,7 +51,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Ruby on Rails Stack            | latest      | Development               |                             |
 | SOGo                           | 3.2.10      | Email, Contacts, Calendar |                             |
 | Shaarli                        | 0.9.3       | Bookmarks                 |                             |
-| Taiga                          | 3.1.x       | Project Management        |                             |
+| Taiga                          | 3.1.x       | Project Management        |[ibragim13kz](https://github.com/ibragim13kz) |
 | The Lounge                     | 2.6.0       | Chat                      |                             |
 | Truffle                        | 4.0.4       | Development, Blockchain | [lbthomsen](https://github.com/lbthomsen)                            |
 | Verdaccio                      | 2.7.3       | Proxy                     |                             |
