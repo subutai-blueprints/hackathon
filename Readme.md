@@ -35,7 +35,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | MediaWiki                      | 1.30.0      | Wiki                      |                             |
 | Meemo                          | 1.6.5       | Notes                     |                             |
 | Minio                          | latest      | Cloud Storage             |                             |
-| Nextcloud                      | 12.0.x      | Cloud Storage             |                             |
+| Nextcloud                      | 12.0.x      | Cloud Storage             | [Abdysamat](https://github.com/samsonbek)|
 | NodeBB                         | 1.7.3       | Forum                     |                             |
 | OpenProject                    | 7.3.2       | Project Management        |                             |
 | OwnCloud                       | 2.4.0       | Cloud Storage             |                             |
