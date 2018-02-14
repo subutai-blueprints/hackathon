@@ -27,7 +27,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | JIRA                           | 6.5.1       | Project Management        | [absidish](https://github.com/absidish) |
 | Kanboard                       | 1.2.0       | Project Management        |                             |
 | LAMP Stack                     | PHP 7       | Development               |                             |
-| Let’s Chat                     | 0.4.8       | Chat                      |                             |
+| Let’s Chat                     | 0.4.8       | Chat                      | [AlinaPenkina](https://github.com/AlinaPenkina) |
 | Lychee                         | 3.1.6       | Photo Management          |                             |
 | Mailtrain                      | 1.24        | Email, Contacts, Calendar |                             |
 | Matomo                         | 3.3.0       | Analytics                 |                             |
