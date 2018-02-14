@@ -15,6 +15,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | DokuWiki                       | 2017-02-19e | Wiki                      |                             |
 | Etherpad                       | 1.6.2       | Notes                     |                             |
 | Fabricator                     | latest      | Development               |                             |
+| Geth                           | 1.7.3       | Blockchain                | [lbthomsen](https://github.com/lbthomsen) |
 | Ghost                          | 1.20.3      | Blog                      |                             |
 | GitLab                         | 10.3.4      | Development               |                             |
 | Gitea                          | 1.3.2       | Development               |                             |
@@ -52,6 +53,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Shaarli                        | 0.9.3       | Bookmarks                 |                             |
 | Taiga                          | 3.1.x       | Project Management        |                             |
 | The Lounge                     | 2.6.0       | Chat                      |                             |
+| Truffle                        | 4.0.4       | Development, Blockchain | [lbthomsen](https://github.com/lbthomsen)                            |
 | Verdaccio                      | 2.7.3       | Proxy                     |                             |
 | Wallabag                       | 2.3.2       | Blog                      |                             |
 | Wekan                          | 0.63        | Development               |                             |
