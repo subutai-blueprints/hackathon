@@ -28,7 +28,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Kanboard                       | 1.2.0       | Project Management        |                             |
 | LAMP Stack                     | PHP 7       | Development               |                             |
 | Let’s Chat                     | 0.4.8       | Chat                      | [AlinaPenkina](https://github.com/AlinaPenkina)|
-| Lychee                         | 3.1.6       | Photo Management          |                             |
+| Lychee                         | 3.1.6       | Photo Management          | [Zubaidullo](github.com/zubaidullo) |
 | Mailtrain                      | 1.24        | Email, Contacts, Calendar |                             |
 | Matomo                         | 3.3.0       | Analytics                 |                             |
 | Mattermost                     | 4.5.1       | Chat                      | [absidish](https://github.com/absidish) |
