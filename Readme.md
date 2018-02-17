@@ -33,6 +33,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Lychee                         | 3.1.6       | Photo Management          | [Zubaidullo](github.com/zubaidullo) |
 | Mailtrain                      | 1.24        | Email, Contacts, Calendar |                             |
 | Matomo                         | 3.3.0       | Analytics                 |                             |
+| Matrix			 | latest      | Chat / IM		   |				 |
 | Mattermost                     | 4.5.1       | Chat                      | [absidish](https://github.com/absidish) |
 | MediaWiki                      | 1.30.0      | Wiki                      |                             |
 | Meemo                          | 1.6.5       | Notes                     |                             |
