@@ -10,6 +10,7 @@ Register by adding your name to one of the existing applications, or add a new a
 
 | Application                    | Version     |   Category                | Registrant's GitHub Handle |
 | ------------------------------ | ----------- | ------------------------- | --------------------------- |
+| Asterisk			 | latest      | VoIP			   |				 |
 | Confluence                     | 6.5.1       | Wiki                      | [absidish](https://github.com/absidish) |
 | Discourse                      | 2.0         | Forum                     |                             |
 | DokuWiki                       | 2017-02-19e | Wiki                      |                             |
@@ -22,9 +23,10 @@ Register by adding your name to one of the existing applications, or add a new a
 | Gogs                           | 0.11.34     | Development               |                             |
 | Hastebin                       | latest      | Notes                     |                             |
 | Hypothesis                     | latest      | Bookmarks, Notes          |                             |
-| Hotglue                        | 1.0.3       | Content Management        |                             |
+| Hotglue                        | 1.0.3       | Content Management        | [efeefe](https://github.com/efeefe) |
 | Jingo                          | 1.8.3       | Wiki                      |                             |
 | JIRA                           | 6.5.1       | Project Management        | [absidish](https://github.com/absidish) |
+| jitsi				 | latest      | Video Conferencing        |				 |
 | Kanboard                       | 1.2.0       | Project Management        |                             |
 | LAMP Stack                     | PHP 7       | Development               |                             |
 | Let’s Chat                     | 0.4.8       | Chat                      | [AlinaPenkina](https://github.com/AlinaPenkina)|
