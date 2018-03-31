@@ -37,7 +37,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Mattermost                     | 4.5.1       | Chat                      | [absidish](https://github.com/absidish) |
 | MediaWiki                      | 1.30.0      | Wiki                      |                             |
 | Meemo                          | 1.6.5       | Notes                     |                             |
-| Minio                          | latest      | Cloud Storage             |                             |
+| Minio                          | latest      | Cloud Storage             | [Neil Spink](https://github.com/neilspink) |
 | Nextcloud                      | 12.0.x      | Cloud Storage             | [samsonbek](https://github.com/samsonbek) |
 | NodeBB                         | 1.7.3       | Forum                     |                             |
 | OpenProject                    | 7.3.2       | Project Management        |                             |
