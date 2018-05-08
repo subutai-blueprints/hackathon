@@ -41,7 +41,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Nextcloud                      | 12.0.x      | Cloud Storage             | [samsonbek](https://github.com/samsonbek) |
 | NodeBB                         | 1.7.3       | Forum                     |                             |
 | OpenProject                    | 7.3.2       | Project Management        |                             |
-| OwnCloud                       | 2.4.0       | Cloud Storage             |                             |
+| OwnCloud                       | 2.4.0       | Cloud Storage             | [magonzalez](https://github.com/magonzalez192) |
 | Paperwork                      | 1.2.2       | Notes                     |                             |
 | Phabricator                    | latest      | Development               |                             |
 | Piwiki                         | 3.3.0       | Wiki                      |                             |
