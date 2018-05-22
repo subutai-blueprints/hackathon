@@ -18,7 +18,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Fabricator                     | latest      | Development               |                             |
 | Geth                           | 1.7.3       | Blockchain                | [lbthomsen](https://github.com/lbthomsen) |
 | Ghost                          | 1.20.3      | Blog                      | [amol4anoff](https://github.com/amol4anoff) |
-| GitLab                         | 10.3.4      | Development               |                             |
+| GitLab                         | 10.3.4      | Development               | [itaipu](https://github.com/marcoarthur) |
 | Gitea                          | 1.3.2       | Development               |                             |
 | Gogs                           | 0.11.34     | Development               |                             |
 | Hastebin                       | latest      | Notes                     |                             |
