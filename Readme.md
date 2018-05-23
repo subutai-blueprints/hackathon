@@ -28,7 +28,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | JIRA                           | 6.5.1       | Project Management        | [absidish](https://github.com/absidish) |
 | jitsi				 | latest      | Video Conferencing        |				 |
 | Kanboard                       | 1.2.0       | Project Management        |                             |
-| LAMP Stack                     | PHP 7       | Development               |                             |
+| LAMP Stack                     | PHP 7       | Development               | [liquuid](https://github.com/liquuid) |
 | Let’s Chat                     | 0.4.8       | Chat                      | [AlinaPenkina](https://github.com/AlinaPenkina)|
 | Lychee                         | 3.1.6       | Photo Management          | [Zubaidullo](github.com/zubaidullo) |
 | Mailtrain                      | 1.24        | Email, Contacts, Calendar |                             |
@@ -50,7 +50,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Redash                         | 3.0.0       | Analytics                 |                             |
 | Redmine                        | 3.4.3       | Development               |                             |
 | RocketChat                     | 0.60.0      | Chat                      |                             |
-| Roundcube                      | 1.3.4       | Email, Contacts, Calendar |                             |
+| Roundcube                      | 1.3.4       | Email, Contacts, Calendar | [liquuid](https://github.com/liquuid) |
 | Ruby on Rails Stack            | latest      | Development               |                             |
 | SOGo                           | 3.2.10      | Email, Contacts, Calendar |                             |
 | Shaarli                        | 0.9.3       | Bookmarks                 |                             |
