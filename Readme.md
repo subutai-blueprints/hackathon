@@ -48,7 +48,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Radicale                       | 2.1.5       | Email, Contacts, Calendar |                             |
 | RainLoop                       | 1.11.3      | Email, Contacts, Calendar |                             |
 | Redash                         | 3.0.0       | Analytics                 |                             |
-| Redmine                        | 3.4.3       | Development               |                             |
+| Redmine                        | 3.4.3       | Development               | [liquuid](https://github.com/liduuid) |
 | RocketChat                     | 0.60.0      | Chat                      |                             |
 | Roundcube                      | 1.3.4       | Email, Contacts, Calendar | [liquuid](https://github.com/liquuid) |
 | Ruby on Rails Stack            | latest      | Development               |                             |
