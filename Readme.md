@@ -26,6 +26,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Hotglue                        | 1.0.3       | Content Management        | [efeefe](https://github.com/efeefe) |
 | Jingo                          | 1.8.3       | Wiki                      |                             |
 | JIRA                           | 6.5.1       | Project Management        | [absidish](https://github.com/absidish) |
+| Jirafeau                       | 3.4.1       | File share                | [etursunbaev](https://github.com/etursunbaev) |
 | jitsi				 | latest      | Video Conferencing        |				 |
 | Kanboard                       | 1.2.0       | Project Management        |                             |
 | LAMP Stack                     | PHP 7       | Development               |                             |
@@ -54,7 +55,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Ruby on Rails Stack            | latest      | Development               |                             |
 | SOGo                           | 3.2.10      | Email, Contacts, Calendar |                             |
 | Shaarli                        | 0.9.3       | Bookmarks                 |                             |
-| Taiga                          | 3.1.x       | Project Management        |[ibragim13kz](https://github.com/ibragim13kz) |
+| Taiga                          | 3.1.x       | Project Management        |[etursunbaev](https://github.com/etursunbaev |
 | The Lounge                     | 2.6.0       | Chat                      |                             |
 | Truffle                        | 4.0.4       | Development, Blockchain | [lbthomsen](https://github.com/lbthomsen)                            |
 | Verdaccio                      | 2.7.3       | Proxy                     |                             |
