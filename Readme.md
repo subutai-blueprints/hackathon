@@ -20,7 +20,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Ghost                          | 1.20.3      | Blog                      | [amol4anoff](https://github.com/amol4anoff) |
 | GitLab                         | 10.3.4      | Development               |                             |
 | Gitea                          | 1.3.2       | Development               |                             |
-| Gogs                           | 0.11.34     | Development               |                             |
+| Gogs                           | 0.11.34     | Development               | [etursunbaev](https://github.com/etursunbaev) |
 | Hastebin                       | latest      | Notes                     |                             |
 | Hypothesis                     | latest      | Bookmarks, Notes          |                             |
 | Hotglue                        | 1.0.3       | Content Management        | [efeefe](https://github.com/efeefe) |
@@ -32,6 +32,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | LAMP Stack                     | PHP 7       | Development               |                             |
 | Let’s Chat                     | 0.4.8       | Chat                      | [AlinaPenkina](https://github.com/AlinaPenkina)|
 | Lychee                         | 3.1.6       | Photo Management          | [Zubaidullo](github.com/zubaidullo) |
+| Magento                        | 2.3.1       | eCommerce                 | [etursunbaev](https://github.com/etursunbaev) |
 | Mailtrain                      | 1.24        | Email, Contacts, Calendar |                             |
 | Matomo                         | 3.3.0       | Analytics                 |                             |
 | Matrix			 | latest      | Chat / IM		   |				 |
@@ -57,7 +58,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Shaarli                        | 0.9.3       | Bookmarks                 |                             |
 | Taiga                          | 3.1.x       | Project Management        |[etursunbaev](https://github.com/etursunbaev) |
 | The Lounge                     | 2.6.0       | Chat                      |                             |
-| Truffle                        | 4.0.4       | Development, Blockchain | [lbthomsen](https://github.com/lbthomsen)                            |
+| Truffle                        | 4.0.4       | Development, Blockchain | [lbthomsen](https://github.com/lbthomsen) |
 | Verdaccio                      | 2.7.3       | Proxy                     |                             |
 | Wallabag                       | 2.3.2       | Blog                      |                             |
 | Wekan                          | 0.63        | Development               |                             |
