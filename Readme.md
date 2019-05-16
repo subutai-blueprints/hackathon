@@ -29,7 +29,7 @@ Register by adding your name to one of the existing applications, or add a new a
 | Jirafeau                       | 3.4.1       | File share                | [etursunbaev](https://github.com/etursunbaev) |
 | jitsi				 | latest      | Video Conferencing        |				 |
 | Kanboard                       | 1.2.0       | Project Management        |                             |
-| LAMP Stack                     | PHP 7       | Development               |                             |
+| LAMP Stack                     | PHP 7       | Development               | [liquuid](https://github.com/liquuid) |
 | Let’s Chat                     | 0.4.8       | Chat                      | [AlinaPenkina](https://github.com/AlinaPenkina)|
 | Lychee                         | 3.1.6       | Photo Management          | [Zubaidullo](github.com/zubaidullo) |
 | Magento                        | 2.3.1       | eCommerce                 | [etursunbaev](https://github.com/etursunbaev) |
@@ -50,9 +50,9 @@ Register by adding your name to one of the existing applications, or add a new a
 | Radicale                       | 2.1.5       | Email, Contacts, Calendar |                             |
 | RainLoop                       | 1.11.3      | Email, Contacts, Calendar |                             |
 | Redash                         | 3.0.0       | Analytics                 |                             |
-| Redmine                        | 3.4.3       | Development               |                             |
+| Redmine                        | 3.4.3       | Development               | [liquuid](https://github.com/liduuid) |
 | RocketChat                     | 0.60.0      | Chat                      |                             |
-| Roundcube                      | 1.3.4       | Email, Contacts, Calendar |                             |
+| Roundcube                      | 1.3.4       | Email, Contacts, Calendar | [liquuid](https://github.com/liquuid) |
 | Ruby on Rails Stack            | latest      | Development               |                             |
 | SOGo                           | 3.2.10      | Email, Contacts, Calendar |                             |
 | Shaarli                        | 0.9.3       | Bookmarks                 |                             |
